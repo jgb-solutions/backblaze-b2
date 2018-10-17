@@ -1,6 +1,6 @@
 <?php
 
-namespace Amelia\Backblaze;
+namespace JGBSolutions\Backblaze;
 
 use BadMethodCallException;
 use ChrisWhite\B2\Client;

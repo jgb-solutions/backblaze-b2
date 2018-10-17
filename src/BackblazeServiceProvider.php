@@ -1,6 +1,6 @@
 <?php
 
-namespace Amelia\Backblaze;
+namespace JGBSolutions\Backblaze;
 
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\ServiceProvider;
